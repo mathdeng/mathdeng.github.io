@@ -1,4 +1,8 @@
+* [哔哩哔哩](https://m.bilibili.com/)
+* [微博](https://m.weibo.cn/)
+
 * [喷嚏网](http://www.dapenti.com/)
+* [阮一峰博客](http://ruanyifeng.com/blog/)
 * [36氪](https://m.36kr.com/)
 * [少数派](https://sspai.com/)
 * [数字尾巴](https://m.dgtle.com/)
