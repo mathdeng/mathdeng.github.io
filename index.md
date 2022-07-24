@@ -1,4 +1,9 @@
+* [喷嚏网](http://www.dapenti.com/blog/indexforweb.asp)
+* [36氪](https://m.36kr.com/)
 * [少数派](https://sspai.com/)
+* [数字尾巴](https://m.dgtle.com/)
+
+* [图灵社区](https://m.ituring.com.cn/)
 
 
 * [京东](https://m.jd.com/)
