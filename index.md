@@ -3,6 +3,9 @@
 * [少数派](https://sspai.com/)
 * [数字尾巴](https://m.dgtle.com/)
 
+* [掘金](https://juejin.cn/)
+* [ExcelHome](https://club.excelhome.net/)
+
 * [起点中文网](https://m.qidian.com/)
 * [图灵社区](https://m.ituring.com.cn/)
 
