@@ -1,1 +1,1 @@
-<a href="https://cloud.seatable.cn/external-apps/79e33d3f-f884-4c25-b457-8caf1e86c790/">前程无忧 应聘搜索</a>
+[应聘搜索](https://cloud.seatable.cn/external-apps/79e33d3f-f884-4c25-b457-8caf1e86c790/)
