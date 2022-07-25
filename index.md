@@ -29,8 +29,7 @@
 * [T-SQL](https://docs.microsoft.com/zh-cn/sql/t-sql/language-reference)&emsp;[SQLServer下载](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 * [SQLite](https://www.sqlite.org/index.html)
 
-* [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)
-* [Power Query](https://docs.microsoft.com/zh-cn/powerquery-m/)
+* [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)&emsp;[Power Query](https://docs.microsoft.com/zh-cn/powerquery-m/)
 
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
 
