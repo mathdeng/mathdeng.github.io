@@ -37,4 +37,5 @@
 * [pandas](https://pandas.pydata.org/docs/)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
 
+* [markdown](https://commonmark.org/help/)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
