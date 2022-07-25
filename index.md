@@ -2,7 +2,7 @@
 * [图灵社区](https://m.ituring.com.cn/)
 
 * [京东](https://m.jd.com/)
-* [天猫](https://www.tmall.com/) [淘宝](https://m.taobao.com/)
+* [天猫](https://www.tmall.com/)&emsp;[淘宝](https://m.taobao.com/)
 
 * [SeaTable Cloud](https://cloud.seatable.cn/)&emsp;[SeaTable](https://www.seatable.cn/)
 * [SeaTable编程手册](https://seatable.github.io/seatable-scripts-cn/)
