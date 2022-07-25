@@ -29,7 +29,10 @@
 * [小众软件](https://www.appinn.com/)
 * [荔枝软件](https://www.lizhi.io/)
 
+* [Git下载](https://git-scm.com/)
+* [Pro Git 2nd](https://git-scm.com/book/zh/v2)
 * [T-SQL](https://docs.microsoft.com/zh-cn/sql/t-sql/language-reference)
+* [SQLServer下载](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)
 * [Python](https://docs.python.org/zh-cn/3/)
 * [pandas](https://pandas.pydata.org/docs/)
