@@ -23,6 +23,8 @@
 * [荔枝软件](https://www.lizhi.io/)
 
 * [SeaTable](https://www.seatable.cn/)
+* [SeaTable Cloud](https://cloud.seatable.cn/)
+* [应聘输入](https://cloud.seatable.cn/dtable/forms/b33925da-434e-42bd-bcdc-fd540cff3330/)
 * [应聘搜索](https://cloud.seatable.cn/external-apps/79e33d3f-f884-4c25-b457-8caf1e86c790/)
 
 * [前程无忧](https://m.51job.com/)
