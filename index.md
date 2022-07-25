@@ -29,6 +29,7 @@
 * [小众软件](https://www.appinn.com/)
 * [荔枝软件](https://www.lizhi.io/)
 
+* [GitHub](https://github.com/)
 * [Git下载](https://git-scm.com/)
 * [Pro Git 2nd](https://git-scm.com/book/zh/v2)
 
