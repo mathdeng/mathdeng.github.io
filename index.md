@@ -31,10 +31,16 @@
 
 * [Git下载](https://git-scm.com/)
 * [Pro Git 2nd](https://git-scm.com/book/zh/v2)
+
 * [T-SQL](https://docs.microsoft.com/zh-cn/sql/t-sql/language-reference)
 * [SQLServer下载](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
+* [SQLite](https://www.sqlite.org/index.html)
+
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)
-* [Python](https://docs.python.org/zh-cn/3/)
+* [PowerShell Gallery](https://www.powershellgallery.com/)
+
+* [Python](https://www.python.org/)
+* [Python文档](https://docs.python.org/zh-cn/3/)
+* [PyPI](https://pypi.org/)
 * [pandas](https://pandas.pydata.org/docs/)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
-* [SQLite](https://www.sqlite.org/index.html)
