@@ -29,6 +29,8 @@
 * [T-SQL](https://docs.microsoft.com/zh-cn/sql/t-sql/language-reference)&emsp;[SQLServer下载](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 * [SQLite](https://www.sqlite.org/index.html)
 
+* [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)
+
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
