@@ -25,6 +25,7 @@
 
 * [GitHub](https://github.com/)
 * [Git下载](https://git-scm.com/)&emsp;[Pro Git 2nd](https://git-scm.com/book/zh/v2)
+* [luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
 
 * [T-SQL](https://docs.microsoft.com/zh-cn/sql/t-sql/language-reference)&emsp;[SQLServer下载](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 * [SQLite](https://www.sqlite.org/index.html)
