@@ -37,6 +37,7 @@
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [pandas](https://pandas.pydata.org/docs/)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
+* [Flask](https://flask.palletsprojects.com/)
 
 * [markdown](https://commonmark.org/help/)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
