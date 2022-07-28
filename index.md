@@ -43,6 +43,7 @@
 * [Django](https://docs.djangoproject.com/zh-hans/)
 
 * [ReactJS](https://zh-hans.reactjs.org/)
+* [VueJS](https://v3.cn.vuejs.org/guide/introduction.html)
 
 * [markdown](https://commonmark.org/help/)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
