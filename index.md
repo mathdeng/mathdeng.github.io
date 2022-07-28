@@ -40,6 +40,7 @@
 * [pandas](https://pandas.pydata.org/docs/)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
 * [Flask](https://flask.palletsprojects.com/)
+* [Django](https://docs.djangoproject.com/zh-hans/)
 
 * [markdown](https://commonmark.org/help/)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
