@@ -26,7 +26,7 @@
 
 * [GitHub](https://github.com/)
 * [Git下载](https://git-scm.com/)&emsp;[Pro Git 2nd](https://git-scm.com/book/zh/v2)
-* [luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
+* [Luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
 * [axios](https://github.com/axios/axios)
 
 * [Bootstrap](https://getbootstrap.com/)
@@ -40,6 +40,7 @@
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [pandas](https://pandas.pydata.org/docs/)
+* [Numpy](https://numpy.org/doc/stable/)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
 * [Flask](https://flask.palletsprojects.com/)&emsp;[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
 * [Django](https://docs.djangoproject.com/zh-hans/)
