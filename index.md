@@ -41,7 +41,11 @@
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [pandas](https://pandas.pydata.org/docs/)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
-* [Flask](https://flask.palletsprojects.com/)
+* [Flask](https://flask.palletsprojects.com/)&emsp;[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
+* [Django](https://docs.djangoproject.com/zh-hans/)
+
+* [ReactJS](https://zh-hans.reactjs.org/)
+* [VueJS](https://v3.cn.vuejs.org/guide/introduction.html)
 
 * [markdown](https://commonmark.org/help/)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
