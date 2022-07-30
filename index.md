@@ -53,3 +53,4 @@
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 
 * [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
+* [发票查验](https://inv-veri.chinatax.gov.cn/index.html)
