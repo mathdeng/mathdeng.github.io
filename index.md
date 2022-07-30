@@ -39,6 +39,7 @@
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
+* [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)
 * [pandas](https://pandas.pydata.org/docs/)
 * [Numpy](https://numpy.org/doc/stable/)
 * [SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
