@@ -24,6 +24,7 @@
 * [ExcelHome](https://club.excelhome.net/)
 * [小众软件](https://www.appinn.com/)&emsp;[异次元软件](https://www.iplaysoft.com/)&emsp;[荔枝软件](https://www.lizhi.io/)
 
+* [Git大全](https://gitee.com/all-about-git)
 * [GitHub](https://github.com/)
 * [Git下载](https://git-scm.com/)&emsp;[Pro Git 2nd](https://git-scm.com/book/zh/v2)
 * [Luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
