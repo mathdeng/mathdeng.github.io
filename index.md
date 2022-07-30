@@ -17,7 +17,7 @@
 * [喷嚏网](http://www.dapenti.com/)
 * [阮一峰博客](http://ruanyifeng.com/blog/)
 * [36氪](https://m.36kr.com/)
-* [少数派](https://sspai.com/)
+* [少数派](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)
 * [数字尾巴](https://m.dgtle.com/)
 
 * [掘金](https://juejin.cn/)
