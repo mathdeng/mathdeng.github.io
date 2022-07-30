@@ -14,6 +14,7 @@
 * [哔哩哔哩](https://m.bilibili.com/)
 * [微博](https://m.weibo.cn/)
 * [林书明](https://m.weibo.cn/u/1811781304)
+* [王厚东](https://m.weibo.cn/u/1737336482)
 
 * [喷嚏网](http://www.dapenti.com/)
 * [阮一峰博客](http://ruanyifeng.com/blog/)
