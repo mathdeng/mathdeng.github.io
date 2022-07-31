@@ -61,6 +61,7 @@
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 * [VS Code Online](https://vscode.dev/)
 * [Geogebra科学计算器](https://www.geogebra.org/scientific)
+* [JebBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 * [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
 * [发票查验](https://inv-veri.chinatax.gov.cn/index.html)
