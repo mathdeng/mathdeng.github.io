@@ -51,6 +51,7 @@
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
 * [Flask](https://flask.palletsprojects.com/)&emsp;[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
 * [Django](https://docs.djangoproject.com/zh-hans/)
+* [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
 * [SQLAlchemy](https://docs.sqlalchemy.org/)
 
 * [ReactJS](https://zh-hans.reactjs.org/)
