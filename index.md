@@ -9,7 +9,9 @@
 * [SeaTable编程手册](https://seatable.github.io/seatable-scripts-cn/)
 * [应聘增](https://cloud.seatable.cn/dtable/forms/b33925da-434e-42bd-bcdc-fd540cff3330/)&emsp;[应聘查](https://cloud.seatable.cn/external-apps/79e33d3f-f884-4c25-b457-8caf1e86c790/)
 
-* [前程无忧](https://m.51job.com/)&emsp;[白云区会计](https://msearch.51job.com/job_list.php?keyword=会计&jobarea=030205&saltype=5000-6000)&emsp;[附近职位](https://m.51job.com/search/recommend.php?type=nearby)&emsp;[申请记录](https://m.51job.com/my/applyhistory.php)
+* [前程无忧](https://m.51job.com/)&emsp;[会计](https://msearch.51job.com/job_list.php?keyword=会计&jobarea=030205&saltype=5000-6000)&emsp;[财务](https://msearch.51job.com/job_list.php?keyword=财务&jobarea=030205&saltype=5000-6000)&emsp;[成本](https://msearch.51job.com/job_list.php?keyword=成本&jobarea=030205&saltype=5000-6000)
+
+* [附近职位](https://m.51job.com/search/recommend.php?type=nearby)&emsp;[申请记录](https://m.51job.com/my/applyhistory.php)
 
 * [哔哩哔哩](https://m.bilibili.com/)
 * [微博](https://m.weibo.cn/)
