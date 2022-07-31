@@ -23,8 +23,8 @@
 * [少数派](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)
 * [数字尾巴](https://m.dgtle.com/)
 
-* [掘金](https://juejin.cn/)
-* [ExcelHome](https://club.excelhome.net/)&emsp;[探索](https://club.excelhome.net/forum.php?mod=guide&view=newthread&mobile=2)
+* [掘金](https://juejin.cn/)&emsp;[最新](https://juejin.cn/?sort=newest)
+* [ExcelHome](https://club.excelhome.net/)&emsp;[发现](https://club.excelhome.net/forum.php?mod=guide&view=newthread&mobile=2)
 * [小众软件](https://www.appinn.com/)&emsp;[异次元软件](https://www.iplaysoft.com/)&emsp;[荔枝软件](https://www.lizhi.io/)
 
 * [Git大全](https://gitee.com/all-about-git)
