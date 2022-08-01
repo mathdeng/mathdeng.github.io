@@ -19,7 +19,7 @@
 * [喷嚏网](http://www.dapenti.com/)
 * [阮一峰博客](http://ruanyifeng.com/blog/)
 * [36氪](https://m.36kr.com/)
-* [少数派](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)
+* [少数派](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)&emsp;[100h编程](https://sspai.com/series/271/list)
 * [数字尾巴](https://m.dgtle.com/)
 
 * [掘金](https://juejin.cn/)&emsp;[最新](https://juejin.cn/?sort=newest)
