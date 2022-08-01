@@ -1,4 +1,4 @@
-* [起点中文网](https://m.qidian.com/)&emsp;[起点书架](https://m.qidian.com/bookshelf/my)
+* [CMFU](https://m.qidian.com/)&emsp;[书架](https://m.qidian.com/bookshelf/my)
 * [图灵社区](https://m.ituring.com.cn/)
 * [京东读书](https://e.m.jd.com/)
 
@@ -17,13 +17,13 @@
 * [小郭](https://m.weibo.cn/u/5243509390)&emsp;[小林](https://m.weibo.cn/u/1811781304)&emsp;[小王](https://m.weibo.cn/u/1737336482)
 
 * [喷嚏网](http://www.dapenti.com/)
-* [阮一峰博客](http://ruanyifeng.com/blog/)
+* [小阮](http://ruanyifeng.com/blog/)
 * [36氪](https://m.36kr.com/)
-* [少数派](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)&emsp;[100h编程](https://sspai.com/series/271/list)
+* [小麦](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)&emsp;[100h编程](https://sspai.com/series/271/list)
 * [数字尾巴](https://m.dgtle.com/)
 
 * [掘金](https://juejin.cn/)&emsp;[最新](https://juejin.cn/?sort=newest)
-* [廖雪峰](https://www.liaoxuefeng.com/)
+* [小廖](https://www.liaoxuefeng.com/)
 * [ExcelHome](https://club.excelhome.net/)&emsp;[发现](https://club.excelhome.net/forum.php?mod=guide&view=newthread&mobile=2)
 * [小众软件](https://www.appinn.com/)&emsp;[异次元软件](https://www.iplaysoft.com/)&emsp;[荔枝软件](https://www.lizhi.io/)
 
