@@ -43,6 +43,7 @@
 * [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)&emsp;[Power Query](https://docs.microsoft.com/zh-cn/powerquery-m/)
 
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
+* [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
