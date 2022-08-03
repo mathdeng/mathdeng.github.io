@@ -50,7 +50,7 @@
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
-* [pandas](https://pandas.pydata.org/docs/)
+* [pandas](https://pandas.pydata.org/docs/)&emsp;[pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [Numpy](https://numpy.org/doc/stable/)&emsp;[SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
 * [Flask](https://flask.palletsprojects.com/)&emsp;[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
