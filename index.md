@@ -70,3 +70,6 @@
 
 * [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
 * [发票查验](https://inv-veri.chinatax.gov.cn/index.html)
+
+* [腾讯云](https://cloud.tencent.com/)&emsp;[控制台](https://console.cloud.tencent.com/)
+* [腾讯云企业邮箱](https://console.cloud.tencent.com/exmail/info)
