@@ -40,6 +40,7 @@
 * [SQLite](https://www.sqlite.org/index.html)
 * [数据类型](https://www.sqlite.org/datatype3.html)&emsp;[日期时间](https://www.sqlite.org/lang_datefunc.html)
 * [Arctype](https://arctype.com/)&emsp;[Beekeeper Studio](https://www.beekeeperstudio.io/)
+* [DBeaver](https://dbeaver.io/)&emsp;[HeidiSQL](https://www.heidisql.com/)
 
 * [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)&emsp;[Power Query](https://docs.microsoft.com/zh-cn/powerquery-m/)
 
