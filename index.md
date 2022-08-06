@@ -46,6 +46,7 @@
 
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
 
+* [OpenSSH](https://docs.microsoft.com/zh-cn/windows-server/administration/openssh/openssh_overview)
 * [NuGet](https://www.nuget.org/)
 * [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
 * [EF Core](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
