@@ -72,8 +72,12 @@
 * [Geogebra科学计算器](https://www.geogebra.org/scientific)
 * [JebBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-* [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
+* [会计资格评价网](http://kzp.mof.gov.cn/)
+* [广东省人民政府](https://www.gd.gov.cn/)
+* [广东省财政厅](http://czt.gd.gov.cn/)
 * [发票查验](https://inv-veri.chinatax.gov.cn/index.html)
+
+* [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
 
 * [腾讯云](https://cloud.tencent.com/)&emsp;[控制台](https://console.cloud.tencent.com/)
 * [腾讯云企业邮箱](https://console.cloud.tencent.com/exmail/info)
