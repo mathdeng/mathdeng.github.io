@@ -5,9 +5,9 @@
 * [京东](https://m.jd.com/)
 * [天猫](https://www.tmall.com/)&emsp;[淘宝](https://m.taobao.com/)
 
+* [应聘增](https://cloud.seatable.cn/dtable/forms/b33925da-434e-42bd-bcdc-fd540cff3330/)&emsp;[应聘查](https://cloud.seatable.cn/external-apps/79e33d3f-f884-4c25-b457-8caf1e86c790/)
 * [SeaTable Cloud](https://cloud.seatable.cn/)&emsp;[SeaTable](https://www.seatable.cn/)
 * [SeaTable编程手册](https://seatable.github.io/seatable-scripts-cn/)
-* [应聘增](https://cloud.seatable.cn/dtable/forms/b33925da-434e-42bd-bcdc-fd540cff3330/)&emsp;[应聘查](https://cloud.seatable.cn/external-apps/79e33d3f-f884-4c25-b457-8caf1e86c790/)
 
 * [前程无忧](https://m.51job.com/)&emsp;[会计](https://msearch.51job.com/job_list.php?keyword=会计&jobarea=030205&saltype=5000-6000)&emsp;[财务](https://msearch.51job.com/job_list.php?keyword=财务&jobarea=030205&saltype=5000-6000)&emsp;[成本](https://msearch.51job.com/job_list.php?keyword=成本&jobarea=030205&saltype=5000-6000)
 * [附近职位](https://m.51job.com/search/recommend.php?type=nearby)&emsp;[申请记录](https://m.51job.com/my/applyhistory.php)
@@ -32,7 +32,6 @@
 * [GitHub](https://github.com/)
 * [Git下载](https://git-scm.com/)&emsp;[Pro Git 2nd](https://git-scm.com/book/zh/v2)
 * [Luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
-* [axios](https://github.com/axios/axios)
 
 * [Apache ECharts](https://echarts.apache.org/zh/index.html)
 * [Bootstrap](https://getbootstrap.com/)
@@ -69,7 +68,6 @@
 * [markdown](https://commonmark.org/help/)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 * [VS Code Online](https://vscode.dev/)
-* [Geogebra科学计算器](https://www.geogebra.org/scientific)
 * [JebBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 * [会计资格评价网](http://kzp.mof.gov.cn/)
