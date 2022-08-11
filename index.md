@@ -50,8 +50,10 @@
 * [NuGet](https://www.nuget.org/)
 * [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
 * [Blazor cli](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
+
 * [最小API](https://docs.microsoft.com/zh-cn/learn/modules/build-web-api-minimal-api/)
-* [EF Core](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
+* [EF Core开始](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
+* [EF Core持久](https://docs.microsoft.com/zh-cn/learn/modules/persist-data-ef-core/)
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
