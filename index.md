@@ -50,6 +50,7 @@
 * [NuGet](https://www.nuget.org/)
 * [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
 * [Blazor cli](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
+* [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
 
 * [最小API](https://docs.microsoft.com/zh-cn/learn/modules/build-web-api-minimal-api/)
 * [EF Core开始](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
