@@ -57,6 +57,8 @@
 * [EF Core入门 EFGetStarted](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
 * [EF Core持久 ContosoPizza](https://docs.microsoft.com/zh-cn/learn/modules/persist-data-ef-core/)
 
+* [C#第一步](https://docs.microsoft.com/zh-cn/learn/paths/csharp-first-steps/)
+
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
 * [pandas](https://pandas.pydata.org/docs/)&emsp;[pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
