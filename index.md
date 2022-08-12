@@ -50,12 +50,12 @@
 * [OpenSSH](https://docs.microsoft.com/zh-cn/windows-server/administration/openssh/openssh_overview)
 
 * [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
-* [Blazor cli](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
+* [Blazor cli BlazorApp](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
 * [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
 
-* [最小API](https://docs.microsoft.com/zh-cn/learn/modules/build-web-api-minimal-api/)
-* [EF Core开始](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
-* [EF Core持久](https://docs.microsoft.com/zh-cn/learn/modules/persist-data-ef-core/)
+* [最小API PizzaStore](https://docs.microsoft.com/zh-cn/learn/modules/build-web-api-minimal-api/)
+* [EF Core入门 EFGetStarted](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
+* [EF Core持久 ContosoPizza](https://docs.microsoft.com/zh-cn/learn/modules/persist-data-ef-core/)
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
