@@ -44,10 +44,11 @@
 
 * [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)&emsp;[Power Query](https://docs.microsoft.com/zh-cn/powerquery-m/)
 
+* [dotnet](https://dotnet.microsoft.com/zh-cn/)&emsp;[NuGet](https://www.nuget.org/)
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
 
 * [OpenSSH](https://docs.microsoft.com/zh-cn/windows-server/administration/openssh/openssh_overview)
-* [NuGet](https://www.nuget.org/)
+
 * [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
 * [Blazor cli](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
 * [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
