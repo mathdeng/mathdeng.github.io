@@ -49,6 +49,7 @@
 
 * [OpenSSH](https://docs.microsoft.com/zh-cn/windows-server/administration/openssh/openssh_overview)
 
+* [razor pages RazorPagesMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/razor-pages)
 * [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
 * [Blazor cli BlazorApp](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
 * [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
