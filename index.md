@@ -53,7 +53,7 @@
 * [Blazor cli BlazorApp](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
 * [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
 
-* [最小API PizzaStore](https://docs.microsoft.com/zh-cn/learn/modules/build-web-api-minimal-api/)
+* [最小API PizzaStore](https://docs.microsoft.com/zh-cn/learn/paths/aspnet-core-minimal-api/)
 * [EF Core入门 EFGetStarted](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
 * [EF Core持久 ContosoPizza](https://docs.microsoft.com/zh-cn/learn/modules/persist-data-ef-core/)
 
