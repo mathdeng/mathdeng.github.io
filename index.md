@@ -19,18 +19,19 @@
 * [喷嚏网](http://www.dapenti.com/)
 * [小阮](http://ruanyifeng.com/blog/)
 * [36氪](https://m.36kr.com/)
+* [虎嗅](https://m.huxiu.com/)
 * [小麦](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)&emsp;[100h编程](https://sspai.com/series/271/list)
 * [数字尾巴](https://m.dgtle.com/)
 * [爱范儿](https://www.ifanr.com/)
 
 * [掘金](https://juejin.cn/)&emsp;[最新](https://juejin.cn/?sort=newest)
-* [小廖](https://www.liaoxuefeng.com/)
 * [ExcelHome](https://club.excelhome.net/)&emsp;[发现](https://club.excelhome.net/forum.php?mod=guide&view=newthread&mobile=2)
 * [小众软件](https://www.appinn.com/)&emsp;[异次元软件](https://www.iplaysoft.com/)&emsp;[荔枝软件](https://www.lizhi.io/)
 
 * [Git大全](https://gitee.com/all-about-git)
 * [GitHub](https://github.com/)
 * [Git下载](https://git-scm.com/)&emsp;[Pro Git 2nd](https://git-scm.com/book/zh/v2)
+* [小廖](https://www.liaoxuefeng.com/)
 * [Luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
 
 * [菜鸟教程](https://www.runoob.com/)
@@ -48,8 +49,6 @@
 
 * [dotnet](https://dotnet.microsoft.com/zh-cn/)&emsp;[NuGet](https://www.nuget.org/)
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
-
-* [OpenSSH](https://docs.microsoft.com/zh-cn/windows-server/administration/openssh/openssh_overview)
 
 * [razor pages RazorPagesMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/razor-pages)
 * [MVC MvcMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/start-mvc)
