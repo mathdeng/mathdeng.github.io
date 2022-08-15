@@ -56,6 +56,7 @@
 * [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
 * [Blazor cli BlazorApp](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
 * [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
+* [Razor Pages EF Core ContosoUniversity](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/intro)
 
 * [最小API PizzaStore](https://docs.microsoft.com/zh-cn/learn/paths/aspnet-core-minimal-api/)
 * [EF Core入门 EFGetStarted](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
