@@ -36,6 +36,9 @@
 
 * [菜鸟教程](https://www.runoob.com/)
 
+* [Apache ECharts](https://echarts.apache.org/zh/index.html)
+* [Bootstrap](https://getbootstrap.com/)
+
 * [T-SQL](https://docs.microsoft.com/zh-cn/sql/t-sql/language-reference)&emsp;[SQLServer下载](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 * [SQLite](https://www.sqlite.org/index.html)
 * [数据类型](https://www.sqlite.org/datatype3.html)&emsp;[日期时间](https://www.sqlite.org/lang_datefunc.html)
@@ -43,31 +46,9 @@
 * [DBeaver](https://dbeaver.io/)&emsp;[HeidiSQL](https://www.heidisql.com/)
 
 * [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)&emsp;[Power Query](https://docs.microsoft.com/zh-cn/powerquery-m/)
-* [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
-
-* [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
-* [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
-* [pandas](https://pandas.pydata.org/docs/)&emsp;[pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-* [read_excel](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html)&emsp;[to_html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_html.html)
-* [Numpy](https://numpy.org/doc/stable/)&emsp;[SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
-* [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
-* [Flask](https://flask.palletsprojects.com/)&emsp;[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
-* [Django](https://docs.djangoproject.com/zh-hans/)
-* [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
-* [SQLAlchemy](https://docs.sqlalchemy.org/)
-
-<details>
-    <summary>归档</summary>
-* [Apache ECharts](https://echarts.apache.org/zh/index.html)
-* [Bootstrap](https://getbootstrap.com/)
-
-* [腾讯云](https://cloud.tencent.com/)&emsp;[控制台](https://console.cloud.tencent.com/)
-* [腾讯云企业邮箱](https://console.cloud.tencent.com/exmail/info)
-* [dnspod](https://console.dnspod.cn/dns/list)
-
-* [阿里云](https://www.aliyun.com/)&emsp;[控制台](https://home.console.aliyun.com/)
 
 * [dotnet](https://dotnet.microsoft.com/zh-cn/)&emsp;[NuGet](https://www.nuget.org/)
+* [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
 
 * [razor pages RazorPagesMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/razor-pages)
 * [MVC MvcMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/start-mvc)
@@ -86,6 +67,17 @@
 
 * [C#第一步](https://docs.microsoft.com/zh-cn/learn/paths/csharp-first-steps/)
 
+* [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
+* [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
+* [pandas](https://pandas.pydata.org/docs/)&emsp;[pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [read_excel](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html)&emsp;[to_html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_html.html)
+* [Numpy](https://numpy.org/doc/stable/)&emsp;[SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
+* [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
+* [Flask](https://flask.palletsprojects.com/)&emsp;[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
+* [Django](https://docs.djangoproject.com/zh-hans/)
+* [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
+* [SQLAlchemy](https://docs.sqlalchemy.org/)
+
 * [ReactJS](https://zh-hans.reactjs.org/)
 * [VueJS](https://v3.cn.vuejs.org/guide/introduction.html)
 
@@ -100,4 +92,9 @@
 * [发票查验](https://inv-veri.chinatax.gov.cn/index.html)
 
 * [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
-</details>
+
+* [腾讯云](https://cloud.tencent.com/)&emsp;[控制台](https://console.cloud.tencent.com/)
+* [腾讯云企业邮箱](https://console.cloud.tencent.com/exmail/info)
+* [dnspod](https://console.dnspod.cn/dns/list)
+
+* [阿里云](https://www.aliyun.com/)&emsp;[控制台](https://home.console.aliyun.com/)
