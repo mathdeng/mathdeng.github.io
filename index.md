@@ -30,16 +30,7 @@
 * [ExcelHome](https://club.excelhome.net/)&emsp;[发现](https://club.excelhome.net/forum.php?mod=guide&view=newthread&mobile=2)
 * [小众软件](https://www.appinn.com/)&emsp;[异次元软件](https://www.iplaysoft.com/)&emsp;[荔枝软件](https://www.lizhi.io/)
 
-* [Git大全](https://gitee.com/all-about-git)
-* [GitHub](https://github.com/)
-* [Git下载](https://git-scm.com/)&emsp;[Pro Git 2nd](https://git-scm.com/book/zh/v2)
-* [小廖](https://www.liaoxuefeng.com/)
-* [Luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
-
 * [菜鸟教程](https://www.runoob.com/)
-
-* [Apache ECharts](https://echarts.apache.org/zh/index.html)
-* [Bootstrap](https://getbootstrap.com/)
 
 * [T-SQL](https://docs.microsoft.com/zh-cn/sql/t-sql/language-reference)&emsp;[SQLServer下载](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 * [SQLite](https://www.sqlite.org/index.html)
@@ -49,25 +40,7 @@
 
 * [VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)&emsp;[Power Query](https://docs.microsoft.com/zh-cn/powerquery-m/)
 
-* [dotnet](https://dotnet.microsoft.com/zh-cn/)&emsp;[NuGet](https://www.nuget.org/)
 * [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/overview)&emsp;[PowerShell Gallery](https://www.powershellgallery.com/)
-
-* [razor pages RazorPagesMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/razor-pages)
-* [MVC MvcMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/start-mvc)
-
-* [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
-* [Blazor cli BlazorApp](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
-* [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
-
-* [Razor Pages EF Core ContosoUniversity](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/intro)
-* [步1](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/intro?tabs=visual-studio-code)&emsp;[步2](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/crud)&emsp;[步3](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/sort-filter-page)&emsp;[步4](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/migrations?tabs=visual-studio-code)
-* [步5](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/complex-data-model?tabs=visual-studio-code)&emsp;[步6](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/read-related-data?tabs=visual-studio-code)&emsp;[步7](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/update-related-data)&emsp;[步8](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/concurrency?tabs=visual-studio-code)
-
-* [最小API PizzaStore](https://docs.microsoft.com/zh-cn/learn/paths/aspnet-core-minimal-api/)
-* [EF Core入门 EFGetStarted](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
-* [EF Core持久 ContosoPizza](https://docs.microsoft.com/zh-cn/learn/modules/persist-data-ef-core/)
-
-* [C#第一步](https://docs.microsoft.com/zh-cn/learn/paths/csharp-first-steps/)
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
@@ -88,15 +61,42 @@
 * [VS Code Online](https://vscode.dev/)
 * [JebBrains Mono](https://www.jetbrains.com/lp/mono/)
 
+* [腾讯云](https://cloud.tencent.com/)&emsp;[控制台](https://console.cloud.tencent.com/)
+* [腾讯云企业邮箱](https://console.cloud.tencent.com/exmail/info)
+* [dnspod](https://console.dnspod.cn/dns/list)
+
+* [阿里云](https://www.aliyun.com/)&emsp;[控制台](https://home.console.aliyun.com/)
+
+* [Apache ECharts](https://echarts.apache.org/zh/index.html)
+* [Bootstrap](https://getbootstrap.com/)
+
+* [dotnet](https://dotnet.microsoft.com/zh-cn/)&emsp;[NuGet](https://www.nuget.org/)
+* [razor pages RazorPagesMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/razor-pages)
+* [MVC MvcMovie](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/start-mvc)
+
+* [Blazor](https://docs.microsoft.com/zh-cn/aspnet/core/blazor)
+* [Blazor cli BlazorApp](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-cli-tutorial/intro)
+* [Blazor Web 应用](https://docs.microsoft.com/zh-cn/learn/modules/build-blazor-webassembly-visual-studio-code/)
+
+* [Razor Pages EF Core ContosoUniversity](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/intro)
+* [步1](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/intro?tabs=visual-studio-code)&emsp;[步2](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/crud)&emsp;[步3](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/sort-filter-page)&emsp;[步4](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/migrations?tabs=visual-studio-code)
+* [步5](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/complex-data-model?tabs=visual-studio-code)&emsp;[步6](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/read-related-data?tabs=visual-studio-code)&emsp;[步7](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/update-related-data)&emsp;[步8](https://docs.microsoft.com/zh-cn/aspnet/core/data/ef-rp/concurrency?tabs=visual-studio-code)
+
+* [最小API PizzaStore](https://docs.microsoft.com/zh-cn/learn/paths/aspnet-core-minimal-api/)
+* [EF Core入门 EFGetStarted](https://docs.microsoft.com/zh-cn/ef/core/get-started/overview/first-app)
+* [EF Core持久 ContosoPizza](https://docs.microsoft.com/zh-cn/learn/modules/persist-data-ef-core/)
+
+* [C#第一步](https://docs.microsoft.com/zh-cn/learn/paths/csharp-first-steps/)
+
+* [Git大全](https://gitee.com/all-about-git)
+* [GitHub](https://github.com/)
+* [Git下载](https://git-scm.com/)&emsp;[Pro Git 2nd](https://git-scm.com/book/zh/v2)
+* [小廖](https://www.liaoxuefeng.com/)
+* [Luckysheet](https://mengshukeji.github.io/LuckysheetDocs/zh/guide/)
+
 * [会计资格评价网](http://kzp.mof.gov.cn/)
 * [广东省人民政府](https://www.gd.gov.cn/)
 * [广东省财政厅](http://czt.gd.gov.cn/)
 * [发票查验](https://inv-veri.chinatax.gov.cn/index.html)
 
 * [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
-
-* [腾讯云](https://cloud.tencent.com/)&emsp;[控制台](https://console.cloud.tencent.com/)
-* [腾讯云企业邮箱](https://console.cloud.tencent.com/exmail/info)
-* [dnspod](https://console.dnspod.cn/dns/list)
-
-* [阿里云](https://www.aliyun.com/)&emsp;[控制台](https://home.console.aliyun.com/)
