@@ -43,16 +43,21 @@
 
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
+
 * [pandas](https://pandas.pydata.org/docs/)&emsp;[pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [read_excel](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html)&emsp;[to_html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_html.html)
 * [Numpy](https://numpy.org/doc/stable/)&emsp;[SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
+
 * [Flask](https://flask.palletsprojects.com/)&emsp;[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
 * [Django](https://docs.djangoproject.com/zh-hans/)
+
 * [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
 * [SQLAlchemy](https://docs.sqlalchemy.org/)
+* [tornado](https://github.com/tornadoweb/tornado)
 
 * [Node.js](https://nodejs.org/zh-cn/docs/guides/)&emsp;[npm](https://www.npmjs.com/)
+* [egg.js](https://www.eggjs.org/zh-CN/intro/quickstart)
 
 * [ReactJS](https://zh-hans.reactjs.org/)
 * [VueJS](https://v3.cn.vuejs.org/guide/introduction.html)
