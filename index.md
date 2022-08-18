@@ -52,6 +52,8 @@
 * [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
 * [SQLAlchemy](https://docs.sqlalchemy.org/)
 
+* [Node.js](https://nodejs.org/zh-cn/docs/guides/)&emsp;[npm](https://www.npmjs.com/)
+
 * [ReactJS](https://zh-hans.reactjs.org/)
 * [VueJS](https://v3.cn.vuejs.org/guide/introduction.html)
 
