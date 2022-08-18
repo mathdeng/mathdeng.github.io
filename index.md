@@ -16,6 +16,7 @@
 
 * [哔哩哔哩](https://m.bilibili.com/)
 * [微博](https://m.weibo.cn/)
+* [小麦](https://m.weibo.cn/u/1914010467)&emsp;[老麦](https://m.weibo.cn/u/1611435224)
 * [小郭](https://m.weibo.cn/u/5243509390)&emsp;[小林](https://m.weibo.cn/u/1811781304)&emsp;[小王](https://m.weibo.cn/u/1737336482)
 
 * [喷嚏网](http://www.dapenti.com/)
