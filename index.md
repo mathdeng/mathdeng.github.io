@@ -67,6 +67,10 @@
 * [ReactJS](https://zh-hans.reactjs.org/)
 * [VueJS](https://v3.cn.vuejs.org/guide/introduction.html)
 
+* [MS office](https://www.office.com/)
+* [office forms](https://forms.office.com/Pages/DesignPageV2.aspx)
+* [MS lists](https://lists.live.com/)
+
 * [markdown](https://commonmark.org/help/)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 * [VS Code Online](https://vscode.dev/)
