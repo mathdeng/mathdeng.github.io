@@ -1,9 +1,5 @@
 * [top](https://www.mathdeng.top/)&emsp;[github page](https://mathdeng.github.io/)
 
-* [CMFU](https://m.qidian.com/)&emsp;[书架](https://m.qidian.com/bookshelf/my)
-* [图灵社区](https://m.ituring.com.cn/)
-* [京东读书](https://e.m.jd.com/)
-
 * [京东](https://m.jd.com/)
 * [天猫](https://www.tmall.com/)&emsp;[淘宝](https://m.taobao.com/)
 
@@ -14,11 +10,6 @@
 * [前程无忧](https://m.51job.com/)&emsp;[会计](https://msearch.51job.com/job_list.php?keyword=会计&jobarea=030205&saltype=5000-6000)&emsp;[财务](https://msearch.51job.com/job_list.php?keyword=财务&jobarea=030205&saltype=5000-6000)&emsp;[成本](https://msearch.51job.com/job_list.php?keyword=成本&jobarea=030205&saltype=5000-6000)
 * [附近职位](https://m.51job.com/search/recommend.php?type=nearby)&emsp;[申请记录](https://m.51job.com/my/applyhistory.php)
 
-* [哔哩哔哩](https://m.bilibili.com/)
-* [微博](https://m.weibo.cn/)
-* [小麦](https://m.weibo.cn/u/1914010467)&emsp;[老麦](https://m.weibo.cn/u/1611435224)
-* [小郭](https://m.weibo.cn/u/5243509390)&emsp;[小林](https://m.weibo.cn/u/1811781304)&emsp;[小王](https://m.weibo.cn/u/1737336482)
-
 * [喷嚏网](http://www.dapenti.com/)
 * [小阮](http://ruanyifeng.com/blog/)
 * [36氪](https://m.36kr.com/)
@@ -26,6 +17,15 @@
 * [小麦](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)&emsp;[100h编程](https://sspai.com/series/271/list)
 * [数字尾巴](https://m.dgtle.com/)
 * [爱范儿](https://www.ifanr.com/)
+
+* [CMFU](https://m.qidian.com/)&emsp;[书架](https://m.qidian.com/bookshelf/my)
+* [图灵社区](https://m.ituring.com.cn/)
+* [京东读书](https://e.m.jd.com/)
+
+* [哔哩哔哩](https://m.bilibili.com/)
+* [微博](https://m.weibo.cn/)
+* [小麦](https://m.weibo.cn/u/1914010467)&emsp;[老麦](https://m.weibo.cn/u/1611435224)
+* [小郭](https://m.weibo.cn/u/5243509390)&emsp;[小林](https://m.weibo.cn/u/1811781304)&emsp;[小王](https://m.weibo.cn/u/1737336482)
 
 * [掘金](https://juejin.cn/)&emsp;[最新](https://juejin.cn/?sort=newest)
 * [ExcelHome](https://club.excelhome.net/)&emsp;[发现](https://club.excelhome.net/forum.php?mod=guide&view=newthread&mobile=2)
