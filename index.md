@@ -47,6 +47,8 @@
 * [Python](https://www.python.org/)&emsp;[Python文档](https://docs.python.org/zh-cn/3/)&emsp;[PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)&emsp;[pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
 
+* [python cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+
 * [pandas](https://pandas.pydata.org/docs/)&emsp;[pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [read_excel](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html)&emsp;[to_html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_html.html)
 * [Numpy](https://numpy.org/doc/stable/)&emsp;[SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
