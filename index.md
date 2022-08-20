@@ -76,6 +76,9 @@
 * [office forms](https://forms.office.com/Pages/DesignPageV2.aspx)
 * [MS lists](https://lists.live.com/)
 
+* [R语言](https://www.r-project.org/)
+* [Mastering-Shiny](https://mastering-shiny.org/)
+
 * [wallhaven](https://wallhaven.cc/)
 
 * [markdown](https://commonmark.org/help/)
