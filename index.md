@@ -76,9 +76,7 @@
 * [coda](https://coda.io/)
 * [trello](https://trello.com/)
 
-* [MS office](https://www.office.com/)
-* [office forms](https://forms.office.com/Pages/DesignPageV2.aspx)
-* [MS lists](https://lists.live.com/)
+* [MS office](https://www.office.com/)&emsp;[office forms](https://forms.office.com/Pages/DesignPageV2.aspx)&emsp;[MS lists](https://lists.live.com/)
 
 * [R语言](https://www.r-project.org/)
 * [Mastering-Shiny](https://mastering-shiny.org/)
