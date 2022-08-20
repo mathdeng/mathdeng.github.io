@@ -61,6 +61,8 @@
 * [SQLAlchemy](https://docs.sqlalchemy.org/)
 * [tornado](https://github.com/tornadoweb/tornado)
 
+* [pillow](https://pillow.readthedocs.io/en/stable/)
+
 * [MDN](https://developer.mozilla.org/zh-CN/)
 * [MDN React](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
