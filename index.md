@@ -14,7 +14,6 @@
 * [小阮](http://ruanyifeng.com/blog/)
 * [36氪](https://m.36kr.com/)
 * [虎嗅](https://m.huxiu.com/)
-* [小麦](https://sspai.com/)&emsp;[matrix](https://sspai.com/matrix)&emsp;[100h编程](https://sspai.com/series/271/list)
 * [数字尾巴](https://m.dgtle.com/)
 * [爱范儿](https://www.ifanr.com/)
 
@@ -25,10 +24,8 @@
 * [哔哩哔哩](https://m.bilibili.com/)
 * [微博](https://m.weibo.cn/)
 * [小麦](https://m.weibo.cn/u/1914010467)&emsp;[老麦](https://m.weibo.cn/u/1611435224)
-* [小郭](https://m.weibo.cn/u/5243509390)&emsp;[小林](https://m.weibo.cn/u/1811781304)&emsp;[小王](https://m.weibo.cn/u/1737336482)
 
 * [掘金](https://juejin.cn/)&emsp;[最新](https://juejin.cn/?sort=newest)
-* [ExcelHome](https://club.excelhome.net/)&emsp;[发现](https://club.excelhome.net/forum.php?mod=guide&view=newthread&mobile=2)
 * [小众软件](https://www.appinn.com/)&emsp;[异次元软件](https://www.iplaysoft.com/)&emsp;[荔枝软件](https://www.lizhi.io/)
 
 * [菜鸟教程](https://www.runoob.com/)
@@ -67,7 +64,6 @@
 * [MDN React](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
 * [Node.js](https://nodejs.org/zh-cn/docs/guides/)&emsp;[npm](https://www.npmjs.com/)
-* [egg.js](https://www.eggjs.org/zh-CN/intro/quickstart)
 
 * [ReactJS](https://zh-hans.reactjs.org/)
 * [VueJS](https://v3.cn.vuejs.org/guide/introduction.html)
@@ -84,12 +80,12 @@
 * [wallhaven](https://wallhaven.cc/)
 
 * [markdown](https://commonmark.org/help/)
+* [HTML转义字符](https://tool.oschina.net/commons?type=2)
 * [字符实体](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 * [VS Code Online](https://vscode.dev/)
 * [JebBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 * [腾讯云](https://cloud.tencent.com/)&emsp;[控制台](https://console.cloud.tencent.com/)
-* [腾讯云企业邮箱](https://console.cloud.tencent.com/exmail/info)
 * [dnspod](https://console.dnspod.cn/dns/list)
 
 * [阿里云](https://www.aliyun.com/)&emsp;[控制台](https://home.console.aliyun.com/)
@@ -124,7 +120,6 @@
 * [会计资格评价网](http://kzp.mof.gov.cn/)
 * [广东省人民政府](https://www.gd.gov.cn/)
 * [广东省财政厅](http://czt.gd.gov.cn/)
-* [防疫须知](https://kj.czt.gd.gov.cn/zyjszgksxx/8165)
 * [发票查验](https://inv-veri.chinatax.gov.cn/index.html)
 
 * [正保会计网校_继续教育](http://jxjy.chinaacc.com/gd)
