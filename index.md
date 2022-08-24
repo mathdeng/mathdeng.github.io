@@ -60,6 +60,10 @@
 
 * [pillow](https://pillow.readthedocs.io/en/stable/)
 
+* [R语言](https://www.r-project.org/)
+* [刘 R](https://cran.r-project.org/doc/contrib/Liu-R-refcard.pdf)
+* [RSQLite](https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html)
+
 * [MDN](https://developer.mozilla.org/zh-CN/)
 * [MDN React](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
