@@ -1,3 +1,6 @@
+* [top](https://www.mathdeng.top/)
+* [github page](https://mathdeng.github.io/)
+
 * [娱乐](娱乐.html)
 * [购物](购物.html)
 * [求职](求职.html)
