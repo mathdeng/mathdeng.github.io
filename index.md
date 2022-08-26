@@ -16,6 +16,8 @@
 * [虎嗅](https://m.huxiu.com/)
 * [数字尾巴](https://m.dgtle.com/)
 * [爱范儿](https://www.ifanr.com/)
+* [雷锋网](https://www.leiphone.com/)
+* [品玩](https://www.pingwest.com/)
 
 * [CMFU](https://m.qidian.com/)&emsp;[书架](https://m.qidian.com/bookshelf/my)
 * [图灵社区](https://m.ituring.com.cn/)
