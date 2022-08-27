@@ -5,6 +5,8 @@
 * [求职](求职.html)
 * [编程](编程.html)
 * [python](python.html)
+* [SQL](SQL.html)
+* [JavaScript](JavaScript.html)
 * [微软](微软.html)
 * [云服务](云服务.html)
 * [其他](其他.html)
