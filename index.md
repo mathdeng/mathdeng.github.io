@@ -1,10 +1,11 @@
 [top](https://www.mathdeng.top/)&emsp;[github page](https://mathdeng.github.io/)
 
+
 * [娱乐](网页/娱乐.html)
 * [购物](网页/购物.html)
 * [求职](网页/求职.html)
 * [编程](网页/编程.html)
-* [python](网页/python.html)
+* [Python](网页/Python.html)
 * [SQL](网页/SQL.html)
 * [JavaScript](网页/JavaScript.html)
 * [微软](网页/微软.html)
