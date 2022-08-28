@@ -1,12 +1,16 @@
 # Python
 
+
 * [Python](https://www.python.org/)
-* [Python文档](https://docs.python.org/zh-cn/3/)
+* [文档](https://docs.python.org/zh-cn/3/)
+* [模块](https://docs.python.org/zh-cn/3/tutorial/modules.html)
 * [PyPI](https://pypi.org/)
 * [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)
 * [pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
 
+
 * [python cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+
 
 * [pandas](https://pandas.pydata.org/docs/)
 * [pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
@@ -16,9 +20,11 @@
 * [SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
 
+
 * [Flask](https://flask.palletsprojects.com/)
 * [flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
 * [Django](https://docs.djangoproject.com/zh-hans/)
+
 
 * [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
 * [SQLAlchemy](https://docs.sqlalchemy.org/)
