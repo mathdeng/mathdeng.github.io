@@ -1,8 +1,8 @@
 [top](https://www.mathdeng.top/)&emsp;[github page](https://mathdeng.github.io/)
 
 
-<script src = "js/首.js"><script>
 <div id = "首"></div>
+<script src = "js/首.js"><script>
 
 
 * [娱乐](网页/娱乐.html)
