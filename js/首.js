@@ -1,1 +1,1 @@
-document.write(`<a href = "https://www.mathdeng.top/">Top</a>&emsp;<a href = "https://mathdeng.github.io/">Page</a>`);
+document.getElementById("首").innerHTML = `<a href = "https://www.mathdeng.top/">Top</a>&emsp;<a href = "https://mathdeng.github.io/">Page</a>`;
