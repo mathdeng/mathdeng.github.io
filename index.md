@@ -1,6 +1,3 @@
-[top](https://www.mathdeng.top/)&emsp;[github page](https://mathdeng.github.io/)
-
-
 <div id = "首"></div>
 <script src = "js/首.js"></script>
 
