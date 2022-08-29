@@ -1,4 +1,4 @@
-[top](https://www.mathdeng.top/)&emsp;[github page](https://mathdeng.github.io/)
+[Top](https://www.mathdeng.top/)&emsp;[Page](https://mathdeng.github.io/)
 
 
 * [娱乐](网页/娱乐.html)
