@@ -1,0 +1,1 @@
+document.getElementsByClassName("site-footer-credits").innerHTML = "版权 by 叶生";

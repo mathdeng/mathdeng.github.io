@@ -16,3 +16,5 @@
 * [微软](网页/微软.html)
 * [云服务](网页/云服务.html)
 
+
+<script src = "../js/尾.js"></script>
