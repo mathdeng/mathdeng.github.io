@@ -17,4 +17,4 @@
 * [云服务](网页/云服务.html)
 
 
-<script src = "../js/尾.js"></script>
+<script src = "js/尾.js"></script>
