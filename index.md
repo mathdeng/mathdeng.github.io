@@ -2,7 +2,7 @@
 
 
 <div id = "首"></div>
-<script src = "js/首.js"><script>
+<script src = "js/首.js"></script>
 
 
 * [娱乐](网页/娱乐.html)
