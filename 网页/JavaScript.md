@@ -1,6 +1,10 @@
 # JavaScript
 
 
+<div id = "首"></div>
+<script src = "../js/首.js"></script>
+
+
 * [Node.js](https://nodejs.org/zh-cn/docs/guides/)
 * [npm](https://www.npmjs.com/)
 * [ReactJS](https://zh-hans.reactjs.org/)

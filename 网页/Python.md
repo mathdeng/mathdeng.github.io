@@ -1,6 +1,10 @@
 # Python
 
 
+<div id = "首"></div>
+<script src = "../js/首.js"></script>
+
+
 * [Python](https://www.python.org/)
 * [文档](https://docs.python.org/zh-cn/3/)
 * [模块](https://docs.python.org/zh-cn/3/tutorial/modules.html)
