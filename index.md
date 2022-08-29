@@ -1,6 +1,9 @@
 [top](https://www.mathdeng.top/)&emsp;[github page](https://mathdeng.github.io/)
 
 
+<script src = "js/首.js"><script>
+
+
 * [娱乐](网页/娱乐.html)
 * [购物](网页/购物.html)
 * [其他](网页/其他.html)
