@@ -10,4 +10,4 @@
 * [签约榜](https://m.qidian.com/rank/sign/)
 
 <div id = "cmfu"></div>
-<script src = "../js/CMFU.js"></script>
+<script src = "../js/cmfu.js"></script>
