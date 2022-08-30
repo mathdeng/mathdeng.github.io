@@ -1,7 +1,3 @@
-const cmfu = {
-    "1034753010" : "超维杀"
-};
-
 let 文本 = "";
 
 for (const [键 , 值] of Object.entries(cmfu)) {
