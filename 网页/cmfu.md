@@ -11,5 +11,4 @@
 
 
 <div id = "cmfu_book"></div>
-<script src = "../js/cmfu_book.js"></script>
 <script src = "../js/cmfu.js"></script>
