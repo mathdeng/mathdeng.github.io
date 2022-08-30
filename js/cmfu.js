@@ -1,6 +1,4 @@
-const cmfu = {
-    "1034753010" : "超维杀"
-};
+document.write(`<script src = "../js/cmfu_book.js"></script>`);
 
 let 文本 = "";
 
