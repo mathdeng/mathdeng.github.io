@@ -1,5 +1,3 @@
-import {cmfu} from 'cmfu_book';
-
 let 文本 = "";
 
 for (const [键 , 值] of Object.entries(cmfu)) {
