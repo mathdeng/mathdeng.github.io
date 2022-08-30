@@ -1,4 +1,6 @@
-document.write(`<script src = "../js/cmfu_book.js"></script>`);
+const cmfu = {
+    "1034753010" : "超维杀"
+};
 
 let 文本 = "";
 
