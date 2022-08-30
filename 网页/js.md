@@ -1,4 +1,4 @@
-# JavaScript
+# js
 
 
 <div id = "首"></div>
