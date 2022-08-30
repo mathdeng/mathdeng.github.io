@@ -7,4 +7,4 @@ for (const [键 , 值] of Object.entries(cmfu)) {
 }
 文本 = `<ul>${文本}</ul>`;
 
-document.getElementById("CMFU").innerHTML = 文本;
+document.getElementById("cmfu").innerHTML = 文本;
