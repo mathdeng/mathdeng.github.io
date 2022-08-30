@@ -1,4 +1,6 @@
-import {cmfu} from "cmfu_book";
+const cmfu = {
+    "1034753010" : "超维杀"
+};
 
 let 文本 = "";
 
