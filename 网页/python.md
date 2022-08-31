@@ -27,6 +27,9 @@
 
 * [Flask](https://flask.palletsprojects.com/)
 * [flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
+
+
+* [FastAPI](https://fastapi.tiangolo.com/zh/)
 * [Django](https://docs.djangoproject.com/zh-hans/)
 
 
