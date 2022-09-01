@@ -1,4 +1,4 @@
-import {cmfu} from "cmfu_book.js"
+import {cmfu} from "./cmfu_book.js";
 
 let 文本 = "";
 
