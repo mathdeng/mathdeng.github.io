@@ -16,3 +16,5 @@ for (const [键 , 值] of Object.entries(cmfu)) {
 文本 = `<ul>${文本}</ul>`;
 
 document.getElementById("cmfu_book").innerHTML = 文本;
+
+document.write("<p>123</p>");
