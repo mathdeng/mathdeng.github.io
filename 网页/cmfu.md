@@ -7,6 +7,7 @@
 
 * [书架](https://m.qidian.com/bookshelf/my)
 * [cmfu](https://m.qidian.com/)
+* [月票榜](https://m.qidian.com/rank/yuepiao/)
 * [签约榜](https://m.qidian.com/rank/sign/)
 
 
