@@ -1,0 +1,12 @@
+# dog
+
+
+<div id = "首"></div>
+<script src = "../js/首.js"></script>
+
+
+* [京东](https://m.jd.com/)
+* [购物车](https://p.m.jd.com/cart/cart.action)
+* [我的京东](https://home.m.jd.com/myJd/newhome.action)
+* [订单](https://trade.m.jd.com/order/orderlist_jdm.shtml)
+* [优惠券](https://wqs.jd.com/my/coupon/jd.shtml)
