@@ -19,6 +19,7 @@
 
 * [新华文轩](https://winshare.m.tmall.com/)
 * [博库网](https://bokuts.m.tmall.com/)
+* [人民邮电出版社](https://rmydcbs.m.tmall.com/)
 * [电子工业出版社](https://dzgycbs.m.tmall.com/)
 
 
