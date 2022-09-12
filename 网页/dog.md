@@ -6,6 +6,7 @@
 
 
 * [京东](https://m.jd.com/)
+* [会员](https://huiyuan.m.jd.com/)
 * [plus](https://plus.m.jd.com/index)
 
 
