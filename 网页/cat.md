@@ -14,6 +14,7 @@
 
 * [当当网](https://dangdang.m.tmall.com/)
 * [当科图书专营店](https://dangkets.m.tmall.com/)
+* [当科图书音像专营店](https://dktsyx.m.tmall.com/)
 
 
 * [新华文轩](https://winshare.m.tmall.com/)
