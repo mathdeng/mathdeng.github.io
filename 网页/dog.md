@@ -17,5 +17,6 @@
 * [优惠券](https://wqs.jd.com/my/coupon/jd.shtml)
 
 
+* [小米](https://shop.m.jd.com/shop/home?shopId=1000004123)
 * [荣耀](https://shop.m.jd.com/shop/home?shopId=1000000904)
 * [微软](https://shop.m.jd.com/shop/home?shopId=1000000326)
