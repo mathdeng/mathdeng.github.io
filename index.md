@@ -3,12 +3,12 @@
 
 * [软件](网页/软件.html)
 * [娱乐](网页/娱乐.html)
+* [其他](网页/其他.html)
 
 
 * [bili](网页/bili.html)
 * [cmfu](网页/cmfu.html)
 * [weibo](网页/weibo.html)
-* [其他](网页/其他.html)
 
 
 * [dog](网页/dog.html)
