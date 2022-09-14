@@ -6,7 +6,6 @@
 
 
 * [码云](https://gitee.com/)
-* [Git大全](https://gitee.com/)
 
 
 * [GitHub](https://github.com/)
