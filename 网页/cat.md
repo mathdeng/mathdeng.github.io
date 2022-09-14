@@ -23,5 +23,8 @@
 * [电子工业出版社](https://dzgycbs.m.tmall.com/)
 
 
+* [荣耀](https://hihonor.m.tmall.com/)
+
+
 * [淘宝](https://m.taobao.com/)
 * [购物车](https://main.m.taobao.com/cart/index.html)
