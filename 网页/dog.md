@@ -22,4 +22,5 @@
 * [微软](https://shop.m.jd.com/shop/home?shopId=1000000326)
 
 
+* [三星二手](https://shop.m.jd.com/shop/home?shopId=813561)
 * [ThinkPad官翻](https://shop.m.jd.com/shop/home?shopId=710727)
