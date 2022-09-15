@@ -20,3 +20,6 @@
 * [小米](https://shop.m.jd.com/shop/home?shopId=1000004123)
 * [荣耀](https://shop.m.jd.com/shop/home?shopId=1000000904)
 * [微软](https://shop.m.jd.com/shop/home?shopId=1000000326)
+
+
+* [ThinkPad官翻](https://shop.m.jd.com/shop/home?shopId=710727)
