@@ -23,6 +23,7 @@
 * [电子工业出版社](https://dzgycbs.m.tmall.com/)
 
 
+* [ThinkPad](https://thinkpad.m.tmall.com/)
 * [荣耀](https://hihonor.m.tmall.com/)
 
 
