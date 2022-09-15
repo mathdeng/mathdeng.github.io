@@ -24,6 +24,7 @@
 
 
 * [ThinkPad](https://thinkpad.m.tmall.com/)
+* [三星](https://samsung.m.tmall.com/)
 * [荣耀](https://hihonor.m.tmall.com/)
 
 
