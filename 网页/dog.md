@@ -18,6 +18,8 @@
 
 
 * [三星](https://shop.m.jd.com/shop/home?shopId=1000003443)
+* [ThinkPad](https://shop.m.jd.com/shop/home?shopId=1000000158)
+
 * [小米](https://shop.m.jd.com/shop/home?shopId=1000004123)
 * [荣耀](https://shop.m.jd.com/shop/home?shopId=1000000904)
 * [微软](https://shop.m.jd.com/shop/home?shopId=1000000326)
