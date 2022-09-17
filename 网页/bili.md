@@ -20,3 +20,4 @@
 * [夏蕾](https://m.bilibili.com/space/1320792805)
 * [脆椰椰](https://m.bilibili.com/space/13942914)
 * [河野华](https://m.bilibili.com/space/18343098)
+* [酸梨大王](https://m.bilibili.com/space/630327749)
