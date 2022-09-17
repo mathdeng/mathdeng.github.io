@@ -12,6 +12,7 @@
 * [孙兴华](https://m.bilibili.com/space/437239552)
 
 
+* [Thurman](https://m.bilibili.com/space/1217628212)
 * [托马斯家的](https://m.bilibili.com/space/12816241)
 * [狈总](https://m.bilibili.com/space/283036476)
 * [中国联通客服官方](https://m.bilibili.com/space/432158620)
