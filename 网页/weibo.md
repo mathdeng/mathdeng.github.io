@@ -9,6 +9,7 @@
 
 
 * [三联生活周刊](https://m.weibo.cn/u/1191965271)
+* [Vista看天下](https://m.weibo.cn/u/1323527941)
 
 
 * [张烨佳Nina](https://m.weibo.cn/u/1801509614)
