@@ -8,6 +8,9 @@
 * [微博](https://m.weibo.cn/)
 
 
+* [三联生活周刊](https://m.weibo.cn/u/1191965271)
+
+
 * [张烨佳Nina](https://m.weibo.cn/u/1801509614)
 * [桃桃](https://m.weibo.cn/u/1407722902)
 * [在下铁头阿彪](https://m.weibo.cn/u/6874605429)
