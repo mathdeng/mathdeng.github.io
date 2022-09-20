@@ -1,4 +1,6 @@
-<p style = "text-align : center"><a href = "https://www.mathdeng.top/">Top</a>&emsp;<a href = "https://mathdeng.github.io/">Page</a></p>
+<div id = "首"></div>
+<script src = "./js/首.js"></script>
+
 
 * [软件](网页/软件.html)
 * [娱乐](网页/娱乐.html)
