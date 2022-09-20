@@ -1,5 +1,4 @@
-[Top](https://www.mathdeng.top/)&emsp;[Page](https://mathdeng.github.io/)
-
+<p style = "text-align : center"><a href = "https://www.mathdeng.top/">Top</a>&emsp;<a href = "https://mathdeng.github.io/">Page</a></p>
 
 * [软件](网页/软件.html)
 * [娱乐](网页/娱乐.html)
