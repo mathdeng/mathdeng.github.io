@@ -12,6 +12,7 @@
 * [Vista看天下](https://m.weibo.cn/u/1323527941)
 
 
+* [张尔达](https://m.weibo.cn/u/7135480066)
 * [Thurman](https://m.weibo.cn/u/1725936400)
 * [张烨佳Nina](https://m.weibo.cn/u/1801509614)
 * [桃桃](https://m.weibo.cn/u/1407722902)
