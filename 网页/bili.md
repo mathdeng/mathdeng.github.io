@@ -21,3 +21,4 @@
 * [脆椰椰](https://m.bilibili.com/space/13942914)
 * [河野华](https://m.bilibili.com/space/18343098)
 * [酸梨大王](https://m.bilibili.com/space/630327749)
+* [神经酋长](https://m.bilibili.com/space/1095810839)
