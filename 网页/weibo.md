@@ -22,11 +22,6 @@
 
 * [麦田](https://m.weibo.cn/u/1454037911)
 * [郭新建](https://m.weibo.cn/u/5243509390)
-* [林书明](https://m.weibo.cn/u/1811781304)
-
-
-* [小麦](https://m.weibo.cn/u/1914010467)
-* [老麦](https://m.weibo.cn/u/1611435224)
 
 
 * [尤尤娜](https://m.weibo.cn/u/7436524707)
