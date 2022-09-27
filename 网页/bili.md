@@ -12,6 +12,7 @@
 * [孙兴华](https://m.bilibili.com/space/437239552)
 
 
+* [真子日记](https://m.bilibili.com/space/1155574439)
 * [Thurman](https://m.bilibili.com/space/1217628212)
 * [托马斯家的](https://m.bilibili.com/space/12816241)
 * [狈总](https://m.bilibili.com/space/283036476)
