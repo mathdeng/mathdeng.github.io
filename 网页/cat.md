@@ -9,6 +9,9 @@
 * [订单](https://h5.m.taobao.com/mlapp/olist.html)
 
 
+* [麦当劳](https://mcdonalds-china.m.tmall.com/)
+
+
 * [DCW运动](https://dcwyd.m.tmall.com/)
 
 
