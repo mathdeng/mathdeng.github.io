@@ -8,6 +8,9 @@
 * [微博](https://m.weibo.cn/)
 
 
+* [小宇宙播客](https://m.weibo.cn/u/7340566849)
+
+
 * [三联生活周刊](https://m.weibo.cn/u/1191965271)
 * [Vista看天下](https://m.weibo.cn/u/1323527941)
 
