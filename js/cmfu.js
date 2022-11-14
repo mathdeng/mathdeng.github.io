@@ -7,6 +7,8 @@ const cmfu = {
     "https://m.qidian.com/book/1035313493.html":"从解析太阳开始",
     "https://m.qidian.com/book/1035532537.html":"我真没想在过去年代当学霸",
     "https://m.qidian.com/book/1035637965.html":"我的科技与狠活被朱元璋曝光了",
+    "https://m.qidian.com/book/1035594179.html":"人生模拟：从养生功开始加词条",
+    "https://m.qidian.com/book/1035166655.html":"这个演员刑啊",
     "https://m.qidian.com/book/1033516786.html":"从机械猎人开始"
 };
 
