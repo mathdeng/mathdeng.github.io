@@ -1,6 +1,7 @@
 const cmfu = {
     "https://m.qidian.com/book/1035629776.html":"我的瓶中宇宙",
     "https://m.qidian.com/book/1035513072.html":"我成了见习神明",
+    "https://m.qidian.com/book/1035282882.html":"神明模拟器",
     "https://m.qidian.com/book/1034754526.html":"迷雾之仙",
     "https://m.qidian.com/book/1035313493.html":"从解析太阳开始",
     "https://m.qidian.com/book/1035637965.html":"我的科技与狠活被朱元璋曝光了",
