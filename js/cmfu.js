@@ -13,6 +13,7 @@ const cmfu = {
     "https://m.qidian.com/book/1031835147.html":"我写的自传不可能是悲剧",
     "https://m.qidian.com/book/1035452169.html":"垃圾 大道韶华",
     "https://m.qidian.com/book/1035256361.html":"我在现实世界加点修行",
+    "https://m.qidian.com/book/1035304619.html":"长生仙缘：从照顾道兄妻女开始",
     "https://m.qidian.com/book/1033516786.html":"从机械猎人开始"
 };
 
