@@ -1,14 +1,12 @@
 const cmfu = {
-    "1035313493" : "从解析太阳开始",
-    "1077731" : "人道天堂",
-    "1245641" : "天道计划",
-    "1033786783" : "我在黄泉当教主"
+    "https://m.qidian.com/book/1035629776.html":"我的瓶中宇宙",
+    "https://m.qidian.com/book/1033516786.html":"从机械猎人开始"
 };
 
 let 文本 = "";
 
-for (const 键 of Object.keys(cmfu).sort((a , b) => Number(a) - Number(b))) {
-    文本 += `<li><a href = "https://m.qidian.com/book/${键}.html">${cmfu[键]}</a></li>`
+for (const 键 of Object.keys(cmfu)) {
+    文本 += `<li><a href = "${键}">${cmfu[键]}</a></li>`
 }
 文本 = `<ul>${文本}</ul>`;
 
