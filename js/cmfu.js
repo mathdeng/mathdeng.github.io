@@ -9,6 +9,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035637965.html":"我的科技与狠活被朱元璋曝光了",
     "https://m.qidian.com/book/1035594179.html":"人生模拟：从养生功开始加词条",
     "https://m.qidian.com/book/1035166655.html":"这个演员刑啊",
+    "https://m.qidian.com/book/1031835147.html":"聊斋大善人",
     "https://m.qidian.com/book/1031835147.html":"我写的自传不可能是悲剧",
     "https://m.qidian.com/book/1035452169.html":"垃圾 大道韶华",
     "https://m.qidian.com/book/1035256361.html":"我在现实世界加点修行",
