@@ -1,5 +1,6 @@
 const cmfu = {
     "https://m.qidian.com/book/1035629776.html":"我的瓶中宇宙",
+    "https://m.qidian.com/book/1035313493.html":"从解析太阳开始",
     "https://m.qidian.com/book/1033516786.html":"从机械猎人开始"
 };
 
