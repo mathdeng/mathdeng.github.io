@@ -16,6 +16,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035256361.html":"我在现实世界加点修行",
     "https://m.qidian.com/book/1032801539.html":"百世换新天",
     "https://m.qidian.com/book/1034869678.html":"我有一个游戏世界",
+    "https://m.qidian.com/book/1023715291.html":"旧日之箓",
     "https://m.qidian.com/book/1035304619.html":"长生仙缘：从照顾道兄妻女开始",
     "https://m.qidian.com/book/1033516786.html":"从机械猎人开始"
 };
