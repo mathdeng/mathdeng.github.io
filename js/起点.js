@@ -12,7 +12,8 @@ const cmfu = {
     "https://m.qidian.com/book/1035629776.html":"我的瓶中宇宙",
     "https://m.qidian.com/book/1035350735.html":"觉醒超人基因的我要无敌了",
     "https://m.qidian.com/book/1034754526.html":"迷雾之仙",
-    "https://m.qidian.com/book/1035532537.html":"我真没想在过去的年代当学霸"
+    "https://m.qidian.com/book/1035532537.html":"我真没想在过去的年代当学霸",
+    "https://m.qidian.com/book/1035313493.html":"从解析太阳开始"
 };
 
 let 文本 = "";
