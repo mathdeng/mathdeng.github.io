@@ -12,6 +12,7 @@ const cmfu = {
     "https://m.qidian.com/book/1034869678.html":"我有一个游戏世界",
     "https://m.qidian.com/book/1023715291.html":"旧日之箓",
     "https://m.qidian.com/book/1034753010.html":"超维杀",
+    "https://m.qidian.com/book/1035341423.html":"我不可能会录这种自述",
     "https://m.qidian.com/book/1035513072.html":"我成了见习神明",
     "https://m.qidian.com/book/1033893441.html":"国民法医",
     "https://m.qidian.com/book/1035166655.html":"这个演员刑啊",
@@ -21,7 +22,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035629776.html":"我的瓶中宇宙",
     "https://m.qidian.com/book/1035350735.html":"觉醒超人基因的我要无敌了",
     "https://m.qidian.com/book/1034754526.html":"迷雾之仙",
-    "https://www.yousuu.com/book/273523":"百世换新天",
+    "https://m.qidian.com/book/1032801539.html":"百世换新天",
     "https://m.qidian.com/book/1035532537.html":"我真没想在过去的年代当学霸",
     "https://m.qidian.com/book/1035313493.html":"从解析太阳开始"
 };
