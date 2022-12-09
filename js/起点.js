@@ -20,7 +20,7 @@ const cmfu = {
     "https://m.qidian.com/book/1033893441.html":"国民法医",
     "https://m.qidian.com/book/1035166655.html":"这个演员刑啊",
     "https://m.qidian.com/book/1035452169.html":"大道韶华",
-    "https://m.qidian.com/book/1035735913.html":"开发大西北：我在戈壁滩建了一座城",
+    "https://m.qidian.com/book/1035735913.html":"开发大西北：我在戈壁建了一座城",
     "https://m.qidian.com/book/1035594179.html":"人生模拟：从养生功开始加词条",
     "https://m.qidian.com/book/1035629776.html":"我的瓶中宇宙",
     "https://m.qidian.com/book/1035350735.html":"觉醒超人基因的我要无敌了",
