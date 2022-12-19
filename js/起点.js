@@ -11,6 +11,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035257693.html":"我每天出门看黄历",
     "https://m.qidian.com/book/1034134977.html":"历史人生模拟器",
     "https://m.qidian.com/book/1035184060.html":"聊斋大善人",
+    "https://m.qidian.com/book/1035859669.html":"别急，容我先开一局游戏",
     "https://m.qidian.com/book/1035457476.html":"万物模拟：开局铜皮铁骨",
     "https://m.qidian.com/book/1035256361.html":"我在现实世界加点修行",
     "https://m.qidian.com/book/1035282882.html":"神明模拟器",
