@@ -1,4 +1,9 @@
 const cmfu = {
+    "https://m.qidian.com/book/1035852105.html":"玄德",
+    "https://m.qidian.com/book/1034284970.html":"修炼从简化功法开始",
+    "https://m.qidian.com/book/1035692335.html":"我的物品有升级面板",
+    "https://m.qidian.com/book/1035857580.html":"警察叫我备案：苦练绝学的我曝光",
+    "https://m.qidian.com/book/1035785432.html":"导演从拯救家族产业开始",
     "https://m.qidian.com/book/1035629776.html":"我的瓶中宇宙",
     "https://m.qidian.com/book/1031159866.html":"魔门大玩家",
     "https://m.qidian.com/book/1031835147.html":"我写的自传不可能是悲剧",
