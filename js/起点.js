@@ -9,6 +9,7 @@ const cmfu = {
     "https://m.qidian.com/book/1031159866.html":"魔门大玩家",
     "https://m.qidian.com/book/1031835147.html":"我写的自传不可能是悲剧",
     "https://m.qidian.com/book/1032788496.html":"镜观其变",
+    "https://m.qidian.com/book/1031790503.html":"我，天煞孤星，爱好交友",
     "https://m.qidian.com/book/1035257693.html":"我每天出门看黄历",
     "https://m.qidian.com/book/1034134977.html":"历史人生模拟器",
     "https://m.qidian.com/book/1035184060.html":"聊斋大善人",
