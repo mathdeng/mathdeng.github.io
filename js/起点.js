@@ -25,6 +25,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035735971.html":"我的身体能加词条",
     "https://m.qidian.com/book/1035341423.html":"我不可能会录这种自述",
     "https://m.qidian.com/book/1035513072.html":"我成了见习神明",
+    "https://m.qidian.com/book/1034265956.html":"你管这叫幕后黑手？",
     "https://m.qidian.com/book/1033893441.html":"国民法医",
     "https://m.qidian.com/book/1035166655.html":"这个演员刑啊",
     "https://m.qidian.com/book/1035804060.html":"美食从绿皮火车厨神开始",
