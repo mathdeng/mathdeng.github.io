@@ -23,6 +23,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035362595.html":"异化武道",
     "https://m.qidian.com/book/1034753010.html":"超维杀",
     "https://m.qidian.com/book/1035735971.html":"我的身体能加词条",
+    "https://m.qidian.com/book/1035771510.html":"这个导演只拍烂片",
     "https://m.qidian.com/book/1035341423.html":"我不可能会录这种自述",
     "https://m.qidian.com/book/1035513072.html":"我成了见习神明",
     "https://m.qidian.com/book/1034265956.html":"你管这叫幕后黑手？",
