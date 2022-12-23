@@ -17,6 +17,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035457476.html":"万物模拟：开局铜皮铁骨",
     "https://m.qidian.com/book/1035256361.html":"我在现实世界加点修行",
     "https://m.qidian.com/book/1035282882.html":"神明模拟器",
+    "https://m.qidian.com/book/1033085217.html":"我的成就系统大有问题",
     "https://m.qidian.com/book/1035682122.html":"在科幻世界加点成了仙人",
     "https://m.qidian.com/book/1033516786.html":"从机械猎人开始",
     "https://m.qidian.com/book/1023715291.html":"旧日之箓",
