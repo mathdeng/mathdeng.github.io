@@ -20,6 +20,8 @@ const cmfu = {
     "https://m.qidian.com/book/1033085217.html":"我的成就系统大有问题",
     "https://m.qidian.com/book/1035682122.html":"在科幻世界加点成了仙人",
     "https://m.qidian.com/book/1033516786.html":"从机械猎人开始",
+    "https://m.qidian.com/book/1035637965.html":"我的科技与狠活被朱元璋曝光了",
+    "https://m.qidian.com/book/1035959050.html":"听说我下辈子是灭世魔头",
     "https://m.qidian.com/book/1023715291.html":"旧日之箓",
     "https://m.qidian.com/book/1035362595.html":"异化武道",
     "https://m.qidian.com/book/1034753010.html":"超维杀",
