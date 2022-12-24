@@ -1,4 +1,5 @@
 const cmfu = {
+    "https://m.qidian.com/book/1035791379.html":"开局签到厨神秘制灌汤包",
     "https://m.qidian.com/book/1035852105.html":"玄德",
     "https://m.qidian.com/book/1035827370.html":"我武术宗师过分张狂，黑粉三千万",
     "https://m.qidian.com/book/1034284970.html":"修炼从简化功法开始",
