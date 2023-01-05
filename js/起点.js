@@ -5,15 +5,7 @@ const cmfu = {
     "https://m.qidian.com/book/1035700993.html":"新东方毕业，你让我烧大席？",
     "https://m.qidian.com/book/1035852105.html":"玄德",
     "https://m.qidian.com/book/1035827370.html":"我武术宗师过分张狂，黑粉三千万",
-    "https://m.qidian.com/book/1035785432.html":"导演从拯救家族产业开始",
-    "https://m.qidian.com/book/1031790503.html":"我，天煞孤星，爱好交友",
-    "https://m.qidian.com/book/1035282882.html":"神明模拟器",
-    "https://m.qidian.com/book/1035735971.html":"我的身体能加词条",
-    "https://m.qidian.com/book/1033893441.html":"国民法医",
-    "https://m.qidian.com/book/1035594179.html":"人生模拟：从养生功开始加词条",
-    "https://m.qidian.com/book/1034754526.html":"迷雾之仙",
-    "https://m.qidian.com/book/1035532537.html":"我真没想在过去的年代当学霸",
-    "https://m.qidian.com/book/1035313493.html":"从解析太阳开始"
+    "https://m.qidian.com/book/1035785432.html":"导演从拯救家族产业开始"
 };
 
 let 文本 = "";
