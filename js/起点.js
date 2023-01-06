@@ -1,6 +1,6 @@
 const cmfu = {
+    "https://m.qidian.com/book/1035937745.html":"武道通神：我有一株武道果树",
     "https://m.qidian.com/book/1035882576.html":"家族修仙：从卖盒饭开始",
-    "https://m.qidian.com/book/1035912292.html":"唯有神",
     "https://m.qidian.com/book/1036037303.html":"师兄说得对",
     "https://m.qidian.com/book/1035700993.html":"新东方毕业，你让我烧大席？",
     "https://m.qidian.com/book/1035852105.html":"玄德",
