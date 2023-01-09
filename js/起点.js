@@ -1,4 +1,5 @@
 const cmfu = {
+    "https://m.qidian.com/book/1036039901.html":"长生修仙：从家族振兴开始",
     "https://m.qidian.com/book/1035791379.html":"开局签到厨神秘制灌汤包",
     "https://m.qidian.com/book/1035882576.html":"家族修仙：从卖盒饭开始",
     "https://m.qidian.com/book/1035700993.html":"新东方毕业，你让我烧大席？",
