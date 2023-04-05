@@ -1,5 +1,6 @@
 const cmfu = {
     "https://m.qidian.com/book/1035852105.html":"玄德",
+    "https://m.qidian.com/book/1033516786.html":"从机械猎人开始",
     "https://m.qidian.com/book/1034754526.html":"迷雾之仙",
     "https://m.qidian.com/book/1035532537.html":"我真没想在过去的年代当学霸",
     "https://m.qidian.com/book/1033893441.html":"国民法医"
