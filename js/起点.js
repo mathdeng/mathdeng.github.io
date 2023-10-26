@@ -1,5 +1,4 @@
 const cmfu = {
-    "https://m.qidian.com/book/1035852105.html":"玄德",
     "https://m.qidian.com/book/1033893441.html":"国民法医"
 };
 
