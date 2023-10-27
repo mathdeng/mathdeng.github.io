@@ -9,6 +9,10 @@
 
 
 * [GitHub](https://github.com/)
+* [math deng com](https://github.com/mathdeng/mathdeng.github.io)
+* [math deng dev](https://github.dev/mathdeng/mathdeng.github.io)
+
+
 * [Pages 主题仓库](https://github.com/orgs/pages-themes/repositories)
 * [Pages 主题](https://pages.github.com/themes/)
 
