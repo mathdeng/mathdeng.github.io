@@ -6,6 +6,7 @@
 
 
 * [码云](https://gitee.com/)
+* [login](https://gitee.com/login)
 
 
 * [GitHub](https://github.com/)
