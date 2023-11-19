@@ -5,8 +5,9 @@
 <script src = "./js/首.js"></script>
 
 
-* [起点](网页/起点.html)
 * [娱乐](网页/娱乐.html)
+* [起点](网页/起点.html)
+* [git](网页/git.html)
 * [微博](网页/微博.html)
 
 
@@ -23,7 +24,6 @@
 * [其他](网页/其他.html)
 
 
-* [git](网页/git.html)
 * [python](网页/python.html)
 * [sql](网页/sql.html)
 * [js](网页/js.html)
