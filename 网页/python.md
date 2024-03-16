@@ -18,8 +18,6 @@
 
 * [pandas](https://pandas.pydata.org/docs/)
 * [pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-* [read_excel](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html)
-* [to_html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_html.html)
 * [Numpy](https://numpy.org/doc/stable/)
 * [SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)

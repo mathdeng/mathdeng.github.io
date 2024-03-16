@@ -6,7 +6,6 @@
 
 
 * [码云](https://gitee.com/)
-* [login](https://gitee.com/login)
 
 
 * [GitHub](https://github.com/)
@@ -19,7 +18,6 @@
 * [math deng dev](https://github.dev/mathdeng/mathdeng.github.io)
 
 
-* [Pages 主题仓库](https://github.com/orgs/pages-themes/repositories)
 * [Pages 主题](https://pages.github.com/themes/)
 
 

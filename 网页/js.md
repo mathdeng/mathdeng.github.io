@@ -14,7 +14,6 @@
 
 * [Node.js](https://nodejs.org/zh-cn/docs/guides/)
 * [npm](https://www.npmjs.com/)
-* [koa](https://www.npmjs.com/package/koa)
 
 
 * [ReactJS](https://zh-hans.reactjs.org/)
