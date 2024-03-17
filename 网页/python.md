@@ -7,10 +7,6 @@
 
 * [Python](https://www.python.org/)
 * [文档](https://docs.python.org/zh-cn/3/)
-* [模块](https://docs.python.org/zh-cn/3/tutorial/modules.html)
-* [PyPI](https://pypi.org/)
-* [sqlite3](https://docs.python.org/zh-cn/3/library/sqlite3.html)
-* [pathlib](https://docs.python.org/zh-cn/3/library/pathlib.html)
 
 
 * [python cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
