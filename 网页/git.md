@@ -1,20 +1,16 @@
-# git
-
-
 <div id = "首"></div>
 <script src = "../js/首.js"></script>
+
+
+# git
 
 
 * [码云](https://gitee.com/)
 
 
 * [GitHub](https://github.com/)
-
-
 * [math deng com](https://github.com/mathdeng/mathdeng.github.io)
 * [网页](https://github.com/mathdeng/mathdeng.github.io/tree/main/网页)
-
-
 * [math deng dev](https://github.dev/mathdeng/mathdeng.github.io)
 
 
