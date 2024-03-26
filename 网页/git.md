@@ -5,15 +5,10 @@
 <script src = "../js/首.js"></script>
 
 
-* [码云](https://gitee.com/)
+* [Gitee 码云](https://gitee.com/)
 
 
 * [GitHub](https://github.com/)
-* [MathDeng Com](https://github.com/mathdeng/mathdeng.github.io)
-* [网页](https://github.com/mathdeng/mathdeng.github.io/tree/main/网页)
-* [MathDeng Dev](https://github.dev/mathdeng/mathdeng.github.io)
-
-
 * [Pages 主题](https://pages.github.com/themes/)
 
 
