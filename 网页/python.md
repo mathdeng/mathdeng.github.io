@@ -21,6 +21,7 @@
 
 * [Flask](https://flask.palletsprojects.com/)
 * [flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/)
+* [Flask venv](https://flask.palletsprojects.com/en/3.0.x/installation/#virtual-environments)
 
 
 * [FastAPI](https://fastapi.tiangolo.com/zh/)
