@@ -12,5 +12,4 @@
 * [Pages 主题](https://pages.github.com/themes/)
 
 
-* [Git下载](https://git-scm.com/)
 * [Pro Git 2nd](https://git-scm.com/book/zh/v2)
