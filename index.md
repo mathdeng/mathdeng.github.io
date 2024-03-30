@@ -24,3 +24,6 @@
 * [python](网页/python.html)
 * [sql](网页/sql.html)
 * [js](网页/js.html)
+
+
+* [重装](网页/重装.html)
