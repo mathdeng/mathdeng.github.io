@@ -19,11 +19,7 @@
 * [编程](网页/编程.html)
 * [微软](网页/微软.html)
 * [软件](网页/软件.html)
-* [其他](网页/其他.html)
-
 * [python](网页/python.html)
-* [sql](网页/sql.html)
-* [js](网页/js.html)
-
+* [其他](网页/其他.html)
 
 * [重装](网页/重装.html)
