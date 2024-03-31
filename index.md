@@ -20,4 +20,4 @@
 * [python](网页/python.html)
 * [其他](网页/其他.html)
 
-* [重装](网页/重装.html)
+* [初始](网页/初始.html)
