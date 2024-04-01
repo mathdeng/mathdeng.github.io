@@ -6,14 +6,14 @@
 
 
 * [Python](https://www.python.org/)
-* [文档](https://docs.python.org/zh-cn/3/)
+* [Python 文档](https://docs.python.org/zh-cn/3/)
 
 
 * [python cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
 
 
-* [pandas](https://pandas.pydata.org/docs/)
-* [pandas小抄](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [pandas 文档](https://pandas.pydata.org/docs/)
+* [pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [Numpy](https://numpy.org/doc/stable/)
 * [SymPy](https://docs.sympy.org/latest/tutorial/intro.html)
 * [xlwings](https://docs.xlwings.org/en/stable/quickstart.html)
@@ -25,7 +25,7 @@
 
 
 * [FastAPI](https://fastapi.tiangolo.com/zh/)
-* [Django](https://docs.djangoproject.com/zh-hans/)
+* [Django 文档](https://docs.djangoproject.com/zh-hans/)
 
 
 * [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
