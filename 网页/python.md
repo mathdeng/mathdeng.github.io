@@ -29,6 +29,6 @@
 
 
 * [pymssql](https://pymssql.readthedocs.io/en/stable/index.html)
-* [SQLAlchemy](https://docs.sqlalchemy.org/)
-* [tornado](https://github.com/tornadoweb/tornado)
+* [https://docs.sqlalchemy.org/](https://docs.sqlalchemy.org/)
+* [https://github.com/tornadoweb/tornado](https://github.com/tornadoweb/tornado)
 * [pillow](https://pillow.readthedocs.io/en/stable/)
