@@ -1,6 +1,7 @@
 const qidian = [{"model": "书.图书", "pk": 338, "fields": {"书名": "天天烧纸，我成了道祖", "url": "https://m.qidian.com/book/1038409918/", "星级": 5}},
  {"model": "书.图书", "pk": 5, "fields": {"书名": "这群玩家比诡更诡", "url": "https://m.qidian.com/book/1038362789/", "星级": 3}},
  {"model": "书.图书", "pk": 4, "fields": {"书名": "通天竹修", "url": "https://m.qidian.com/book/1037115286/", "星级": 3}},
+ {"model": "书.图书", "pk": 343, "fields": {"书名": "赐福带点副作用，怎么就邪神了？", "url": "https://m.qidian.com/book/1039546173/", "星级": 2}},
  {"model": "书.图书", "pk": 342, "fields": {"书名": "黑化强十倍，成魔百倍强", "url": "https://m.qidian.com/book/1039481929/", "星级": 2}},
  {"model": "书.图书", "pk": 341, "fields": {"书名": "从加点开始横推高武世界", "url": "https://m.qidian.com/book/1038199546/", "星级": 2}},
  {"model": "书.图书", "pk": 340, "fields": {"书名": "别人家的宠物哪有这么可爱！", "url": "https://m.qidian.com/book/1037862103/", "星级": 2}},
