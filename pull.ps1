@@ -1,1 +1,1 @@
-﻿git pull
+git pull
